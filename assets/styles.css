@@ -1,0 +1,72 @@
+.stoplight {
+    margin: 50px auto;
+    width: 200px;
+    height: 460px;
+    background-color: black;
+}
+
+.top-row {
+    height: 120px;
+}
+
+.blank-top-left {
+    height: 120px;
+    width: 55px;
+    background-color: white;
+}
+
+.pole {
+    height: 120px;
+    width: 90px;
+}
+
+.blank-top-right {
+    height: 120px;
+    width: 55px;
+    background-color: white;
+}
+
+.left {
+    float: left;
+}
+
+.bottom-row {
+    height: 340px;
+}
+
+.red {
+    margin: 10px auto;
+    background-color: #F5B7B1;
+    height: 100px;
+    width: 100px;
+    border-radius: 75%;
+}
+
+.yellow {
+    margin: 10px auto;
+    background-color: #FCF3CF;
+    height: 100px;
+    width: 100px;
+    border-radius: 75%;
+}
+
+.green {
+    margin: 10px auto;
+    background-color: #D4EFDF;
+    height: 100px;
+    width: 100px;
+    border-radius: 75%;
+}
+
+.red:hover {
+    background-color: red;
+}
+
+.yellow:hover {
+    background-color: yellow;
+}
+
+.green:hover {
+    background-color: green;        
+}
+
